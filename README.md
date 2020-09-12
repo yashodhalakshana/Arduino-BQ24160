@@ -3,9 +3,9 @@ Arduino Library for BQ24160
 
 BQ24160 is a 2.5A, Dual-Input, Single-Cell Switched-Mode Li-Ion Battery Charger with Power Path Management and I2C Interface
 
-This library contain several function for BQ24160
+This library contains with several functions for BQ24160
 
-  void begin(void);//begin BQ24160
+  	void begin(void);//begin BQ24160
   
 	void resetWD(void);//reset watch dog timer
   
